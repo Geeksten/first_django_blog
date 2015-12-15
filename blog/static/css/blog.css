@@ -14,7 +14,7 @@ body {
 }
 
 p{
-    font-size: 16px
+    font-size: 18px
 }
 
 .page-header {
@@ -41,7 +41,7 @@ h1, h2, h3, h4 {
 .date {
     float: right;
     color: #00FF00;
-    font-size: 16px
+    font-size: 18px
 }
 
 .save {
